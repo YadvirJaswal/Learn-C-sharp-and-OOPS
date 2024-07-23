@@ -1,0 +1,14 @@
+C:\Users\navja\source\repos\Bethany'sPieShop.InventryManagement\Bethany'sPieShop.InventryManagement\bin\Debug\net8.0\Bethany'sPieShop.InventryManagement.exe
+C:\Users\navja\source\repos\Bethany'sPieShop.InventryManagement\Bethany'sPieShop.InventryManagement\bin\Debug\net8.0\Bethany'sPieShop.InventryManagement.deps.json
+C:\Users\navja\source\repos\Bethany'sPieShop.InventryManagement\Bethany'sPieShop.InventryManagement\bin\Debug\net8.0\Bethany'sPieShop.InventryManagement.runtimeconfig.json
+C:\Users\navja\source\repos\Bethany'sPieShop.InventryManagement\Bethany'sPieShop.InventryManagement\bin\Debug\net8.0\Bethany'sPieShop.InventryManagement.dll
+C:\Users\navja\source\repos\Bethany'sPieShop.InventryManagement\Bethany'sPieShop.InventryManagement\bin\Debug\net8.0\Bethany'sPieShop.InventryManagement.pdb
+C:\Users\navja\source\repos\Bethany'sPieShop.InventryManagement\Bethany'sPieShop.InventryManagement\obj\Debug\net8.0\Bethany'sPieShop.InventryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navja\source\repos\Bethany'sPieShop.InventryManagement\Bethany'sPieShop.InventryManagement\obj\Debug\net8.0\Bethany'sPieShop.InventryManagement.AssemblyInfoInputs.cache
+C:\Users\navja\source\repos\Bethany'sPieShop.InventryManagement\Bethany'sPieShop.InventryManagement\obj\Debug\net8.0\Bethany'sPieShop.InventryManagement.AssemblyInfo.cs
+C:\Users\navja\source\repos\Bethany'sPieShop.InventryManagement\Bethany'sPieShop.InventryManagement\obj\Debug\net8.0\Bethany'sPieShop.InventryManagement.csproj.CoreCompileInputs.cache
+C:\Users\navja\source\repos\Bethany'sPieShop.InventryManagement\Bethany'sPieShop.InventryManagement\obj\Debug\net8.0\Bethany'sPieShop.InventryManagement.dll
+C:\Users\navja\source\repos\Bethany'sPieShop.InventryManagement\Bethany'sPieShop.InventryManagement\obj\Debug\net8.0\refint\Bethany'sPieShop.InventryManagement.dll
+C:\Users\navja\source\repos\Bethany'sPieShop.InventryManagement\Bethany'sPieShop.InventryManagement\obj\Debug\net8.0\Bethany'sPieShop.InventryManagement.pdb
+C:\Users\navja\source\repos\Bethany'sPieShop.InventryManagement\Bethany'sPieShop.InventryManagement\obj\Debug\net8.0\Bethany'sPieShop.InventryManagement.genruntimeconfig.cache
+C:\Users\navja\source\repos\Bethany'sPieShop.InventryManagement\Bethany'sPieShop.InventryManagement\obj\Debug\net8.0\ref\Bethany'sPieShop.InventryManagement.dll
